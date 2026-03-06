@@ -1,4 +1,4 @@
-# 🛡️ Weapon Detection System (YOLO26n + Optuna)
+# Weapon Detection System (YOLO26n + Optuna)
 
 [![Python](https://img.shields.io/badge/Python-3.10-blue.svg)](https://www.python.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0-red.svg)](https://pytorch.org/)
