@@ -23,3 +23,5 @@ A real-time weapon identification system designed for security environments. Thi
 
 ## 🧪 Methodology
 The model was trained on a dataset of firearms and knives. Hyperparameters like `lr0`, `momentum`, and `box loss` were fine-tuned over 100 iterations using a Bayesian Search strategy.
+
+[Lab Report](object_detection_report.pdf)
